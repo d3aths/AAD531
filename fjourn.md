@@ -33,11 +33,11 @@ the official website for the CP2077 game. I like the imagery and the frames arou
 ## Development of Splash Page
 
 choosing body font, between
-[exo](/assets/font-exo.png)
+![exo](/assets/font-exo.png)
 and
-[ox](/assets/font-oxanium.png)
+![ox](/assets/font-oxanium.png)
 browsing fonts for titles and headings is always fun cause you get to find some whack looking stuff.. went with this as it fits the theme really well
-[neolat](/assets/font-neolatina.png)
+![neolat](/assets/font-neolatina.png)
 
 importing those fonts and manually adding neo latina, then grabbed a multi column layout from w3 schools, ive used it a lot in previous work so its handy just having all the code as the template, then you can make whatever changes you want. customizing the headers and buttons and such to have cool effects. i tried messing around with a blurred background but something in the css was mucking it up and as soon as i put it in, the background would disappear entirely. because it had to be its own div, but when you have all these other divs all doing stuff to the page.. i tried to isolate the problem for about 20 minutes before giving up, couldn't figure it out, but it wasn't too much of a problem.. more something i just wanted to see if it looked good or not. having the background less busy. alternatively i can fill up the columns with content and have the opacent which is what im going with at the moment, so the background will be less prevalent. overall loving the colours so far.
 
@@ -67,7 +67,7 @@ reference images using fig 1 etc
 tutorials used: 
 http://aleclownes.com/2017/02/01/crt-display.html
 
-asset:
+(unused) asset:
 by jose ciceraro
 https://dribbble.com/shots/1807804-Ratchet-and-Clank-battle-arena-screen/attachments/298724
 
