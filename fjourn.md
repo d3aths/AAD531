@@ -1,7 +1,6 @@
 # Formative Assessment Journal
 
 ## Experimentations
-class tasks/activities and your own experiments. insert screenshots of dev process and include annotations about your process and thoughts.
 
 I spent a while considering what to do my fansite on. It was a toss up between the Final Fantasy series, or a Cyberpunk themed site - possibly for the CP2077 game, or just a kind of fansite for the genre itself, maybe have some kind of interactivity going on. I delayed it for a bit cause I wanted the URL to be appropriate relative to what the content was. So in the end I went with cyberpunk purely because I have a lot more ideas for what I could do, and creating the appropriate aesthetic would be easier for me than a Final Fantasy based one.
 
@@ -11,9 +10,13 @@ I've also been struggling on content, like how could I make a fansite, what sort
 
 I love the colour palette of this site as these are some of my favourite colours used in combination with each other. For everything in the site, I took hex codes from the background image.
 
-I've been experimenting a bit with the background, and decided that it would look better blurred. The way the CSS works with that is that the body, html, and bg div height has to be set to 100% or it won't show up properly. This caused issues with the main column divs that were originally on the front page. The entire body would blur itself instead of the background image like I wanted. Upon a lot of review, I figured that since we technically have to create a splash page, I could do that and have just a basic splash when you first arrive on the page, and then the content could be displayed after going into the site properly, and I would remove the scanlines and complicated css that was messing it up after. Hopefully I can still get the background to blur within the site as well.
-
 ![palette](/assets/website-palette.png)
+
+I've been experimenting a bit with the background, and decided that it would look better blurred. The way the CSS works with that is that the body, html, and bg div height has to be set to 100% or it won't show up properly. This caused issues with the main column divs that were originally on the front page. The entire body would blur itself instead of the background image like I wanted. Upon a lot of review, I figured that since we technically have to create a splash page, I could do that and have just a basic splash when you first arrive on the page, and then the content could be displayed after going into the site properly, and I would remove the scanlines and complicated css that was messing it up after. So with this change, the background on the site is nicely blurred to give more focus to the main content.
+Another thing I was focusing on was experimenting with different content in my splash page. At first, the main page had the content on it that you now see once you have clicked the enter button. I then changed it to having the enter button and all the effects and such, but it looked very empty, especially on a large screen. I played around with different things like text or even css animations, and just moving the enter to be the very center of the screen but still felt like it needed something more. I asked a friend to have a look at the website and if he had any feedback or suggestions about it, and it was helpful hearing an outside observation. One of the points was that you don't know what the website is even for when you arrive at the page, you just see a background and an enter button. So I decided after that to just add the CP logo to kinda show what the website was about.
+
+After finalizing that, I moved the previous content over to the inside of the site and went from there.
+
 
 ## Formative Professional Pratices 
 summarise an area of professional pratice in approx 300 words, use imagery if appropirate, you must use credible academic references and cite your statements. you are welcome ot give your thoughts, however you must have your statements backed up by credible research
@@ -23,12 +26,25 @@ note: this is a draft for your fromative assessment, you will submit a final cop
 
 ## Inspiration
 share 3-4 exmaples of websites etc that have inspire you and briefly write what it is about them that inspires you. how have they been produced. think about functionality, accessibility, how they look on diff devices, dont, imagery, colours, etc
+Rather than be inspired by live websites, i usually look through codepen or deviantart or something. where codepen has a lot of css on it you can use which has some really amazing effects that you never thought were possible with css only, some of them are very very advanced and have served as inspiration for my development. As well as deviantart having lots of art images of things like interfaces and HUDs.
 
-- codepen
+Here are some links to pens and websites that I have been inspired by, though there isn't really any elements from these examples that I actually used with mine.
+
+https://codepen.io/aderaaij/pen/amqoVJ
+
+https://codepen.io/hussard/details/ExgbXMP
+
+https://codepen.io/kimwhy/details/zYroKXr
+
+https://codepen.io/marcc24k/details/gRPygo
+
+https://codepen.io/summercodes/details/jOmbZLW
+
+https://codepen.io/ltrademark/pen/xpgprZ
 
 https://www.cyberpunk.net/nz/en/
 
-the official website for the CP2077 game. I like the imagery and the frames around them, as well as the way the website flows out when you scroll downwards. The main colours of yellow and blue fits the theme as the game's official colours on all their game boxes, their logos, and in the game itself as interfaces. Thee yellow and blue also fits thematically within the cyberpunk genre itself as it is built on the 80s neon colour aesthetic.
+The official website for the CP2077 game. I like the imagery and the frames around them, as well as the way the website flows out when you scroll downwards. The main colours of yellow and blue fits the theme as the game's official colours on all their game boxes, their logos, and in the game itself as interfaces. Thee yellow and blue also fits thematically within the cyberpunk genre itself as it is built on the 80s neon colour aesthetic.
 
 ## Development of Splash Page
 
@@ -43,7 +59,7 @@ importing those fonts and manually adding neo latina, then grabbed a multi colum
 
 
 ## Final Splash Page
-share screenshots of your final splash page and a video of it in action
+
 
 ## Evaluation of your Splash Page
 share your evaluation of splash page here
@@ -54,15 +70,14 @@ to do : cursor, music, scrollbar, link sidetab to headings
 01 - Marcin Przybylowicz - Corposeduction
 
 ## Final Fansite
-share working link to fansite here. screenshots and video of it in action.
+https://streamable.com/tpu4o4
+
+https://streamable.com/n2ta21
 
 ## Evaluation of your Fansite
 share your evaluation of your fansite
 
 ## References
-include appendix and bibliography
-cite images and quotes and info
-reference images using fig 1 etc
 
 tutorials used: 
 http://aleclownes.com/2017/02/01/crt-display.html
