@@ -32,15 +32,27 @@ Here are some links to pens and websites that I have been inspired by, though th
 
 https://codepen.io/aderaaij/pen/amqoVJ
 
+The colour theme here and animated style of the background inspire me. The classic outrun style always attracts me, something about the grid and the colour scheme. It made me want to do some kind of animated background, but maybe not so basic as what was shown here. Something like the background I had chosen but with a few parts animated such as a wind blowing or neon lights flickering would have been cool, but also would probably have had to create something myself which would have taken too much effort that I didn't have time to sink in.
+
 https://codepen.io/hussard/details/ExgbXMP
+
+This is a redesign of a social app using the same interface as what's in the actual cyberpunk game. You have a messaging system in your menu, so it gave me some ideas around incorporating elements from the game's interface in my website. The thing is I didn't have any ideas for content that I could put in that could use anything like that.
 
 https://codepen.io/kimwhy/details/zYroKXr
 
+This mockuip of a website is very well made, basically a template for a fansite. I like the way you scroll down the page and everything comes in sort of modeules, with the text next to the images and section after section. I would have liked to design a similar page but positioning like that is the bane of my existence when trying to design websites. I guess it's just a matter of a lottt of different divs, and them making sure everything comes together and sits perfectly when responsive, it just takes too much time and fiddling around to get right. So with the time I had I had to come up with a more basic design, plus I didn't want to straight up just copy something like this
+
 https://codepen.io/marcc24k/details/gRPygo
+
+Not quite sure what this one is but it looks really beautiful, and the colours attract me a lot, the soft neons and the opacity of the middle div and the animations it does as well are just so smooth. It looks kinda like a screen from a web based game of some kind. I could not incorporate anything from this into my own design but I liked it a lot so thought it worth mentioning as inspiration.
 
 https://codepen.io/summercodes/details/jOmbZLW
 
+This mockup website really amazed me, the fact it comes with its own splash page sort of entrance thats part of the homepage itself, and you can just scroll down to view the content, and the way the frame is placed around the page as well, it looks like pretty advanced css, I had a look at the code and played around with it a bit but that kind of things far beyond my level at the moment. It just looked super cool how it was laid out, the colours it used as well. I would have liked to do a vertical side menu kind of thing like that if I had more content to put in my site.
+
 https://codepen.io/ltrademark/pen/xpgprZ
+
+This is an error page I found and it just looked so damn cool. The glowing and glitching as well as japanese text with monocode font fits perfectly for the genre. I would have changed the colour of course, and the opacent kind of background I admired a lot as well. I think i've said in the videos of the walkthrough that drop shadowing and opacity were some of my favourite things to do on a site and it instantly makes it look 10x cooler when you add those to divs.
 
 https://www.cyberpunk.net/nz/en/
 
@@ -57,25 +69,30 @@ browsing fonts for titles and headings is always fun cause you get to find some 
 
 importing those fonts and manually adding neo latina, then grabbed a multi column layout from w3 schools, ive used it a lot in previous work so its handy just having all the code as the template, then you can make whatever changes you want. customizing the headers and buttons and such to have cool effects. i tried messing around with a blurred background but something in the css was mucking it up and as soon as i put it in, the background would disappear entirely. because it had to be its own div, but when you have all these other divs all doing stuff to the page.. i tried to isolate the problem for about 20 minutes before giving up, couldn't figure it out, but it wasn't too much of a problem.. more something i just wanted to see if it looked good or not. having the background less busy. alternatively i can fill up the columns with content and have the opacent which is what im going with at the moment, so the background will be less prevalent. overall loving the colours so far.
 
+This was what I had written in the first few weeks when I started development and not sure really what else to say at the risk of repeating myself of what i've said in the experimentation, which I kinda wrote a lot about the development in there. Basically switched around a lot of parts of the site. The splash page ended up being quite basic with only a few elements on it, but I guess you expect that of a splash page. I wanted a bit more stuff so the last thing I did was add the custom cursors and have the music playing in the background. Apparently its not so good practice to have autoplaying music on websites anymore but maybe its the part of me that lived through the internet in the late 90s/early 2000s that holds a bit of sentimental value towards old school kind of ideals like that, so I put it in anyway. The music I used was from the official soundtrack of CP2077: Marcin Przybylowicz - Corposeduction
+
 
 ## Final Splash Page
 
+![splash](/assets/splash.png)
 
 ## Evaluation of your Splash Page
-share your evaluation of splash page here
+I think it looks beautiful. Im happy with how it turned out especially with the responsitivity. It looks so cute when resized. The slight blurred border around the background image makes it pop out of your screen as well, like it looks like it has rounded edges like a curved phone screen with zero bezels.
 
 ## Development of Fansite
-share your development. include font, colour layout, anything that documents the journey
-to do : cursor, music, scrollbar, link sidetab to headings
-01 - Marcin Przybylowicz - Corposeduction
+Once I had finished doing the splash I basically just slapped a bunch of content on there, and used all the formatting for divs and headers and text etc into that. It didn't take too long because I had already done all the css and placed everything and made sure it was working to be responsive. I had written before in the experimentation that I had problems with positioning stuff but thinking back I can barely remember it now and it seems so easy when youre just looking at a finished product that works the way you want it.
 
 ## Final Fansite
+
+### Video walkthroughs
 https://streamable.com/tpu4o4
 
 https://streamable.com/n2ta21
 
+![index](/assets/index.png)
+
 ## Evaluation of your Fansite
-share your evaluation of your fansite
+One thing that bothered me, as I also talked about in the walkthrough was the logo on the content page. At the time of filming you can see how it looked, and since filming that and now i've made a new logo and replaced the old one and i'm much happier with it now. You can see that on the live website. In other areas, What I think could be improved on was having more content, or perhaps laying out the website in a way that one of my inspirations had, instead of one long scrolling div with everything in it, the background could stay fixed on screen and the different sections of the site could be smaller and have more spacing, more pictures between them, and overall more professional looking when scrolling through it.
 
 ## References
 
