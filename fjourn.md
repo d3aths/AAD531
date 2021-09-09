@@ -51,7 +51,7 @@ This is a redesign of a social app using the same interface as what's in the act
 
 https://codepen.io/kimwhy/details/zYroKXr
 
-This mockuip of a website is very well made, basically a template for a fansite. I like the way you scroll down the page and everything comes in sort of modeules, with the text next to the images and section after section. I would have liked to design a similar page but positioning like that is the bane of my existence when trying to design websites. I guess it's just a matter of a lottt of different divs, and them making sure everything comes together and sits perfectly when responsive, it just takes too much time and fiddling around to get right. So with the time I had I had to come up with a more basic design, plus I didn't want to straight up just copy something like this
+Mockup of a website is very well made, basically a template for a fansite. I like the way you scroll down the page and everything comes in sort of modeules, with the text next to the images and section after section. I would have liked to design a similar page but positioning like that is the bane of my existence when trying to design websites. I guess it's just a matter of a lottt of different divs, and them making sure everything comes together and sits perfectly when responsive, it just takes too much time and fiddling around to get right. So with the time I had I had to come up with a more basic design, plus I didn't want to straight up just copy something like this
 
 ---
 
@@ -93,7 +93,7 @@ This was what I had written in the first few weeks when I started development an
 I think it looks beautiful. Im happy with how it turned out especially with the responsitivity. It looks so cute when resized. The slight blurred border around the background image makes it pop out of your screen as well, like it looks like it has rounded edges like a curved phone screen with zero bezels.
 
 ## Development of Fansite
-Once I had finished doing the splash I basically just slapped a bunch of content on there, and used all the formatting for divs and headers and text etc into that. It didn't take too long because I had already done all the css and placed everything and made sure it was working to be responsive. I had written before in the experimentation that I had problems with positioning stuff but thinking back I can barely remember it now and it seems so easy when youre just looking at a finished product that works the way you want it.
+Once I had finished doing the splash I basically just slapped a bunch of content on there, and used all the formatting for divs and headers and text etc into that. It didn't take too long because I had already done all the css and placed everything and made sure it was working to be responsive. I had written before in the experimentation that I had problems with positioning stuff but thinking back I can barely remember it now and it seems so easy when youre just looking at a finished product that works the way you want it. So for content basically went around the internet gathering info from sources which i've listed in references, to post as content. The main thing about this was that I had no idea what to put as content so just decided to do 3 small sections about main facets of the game. About it in general, Main characters, and the City. There really isnt much to the website but it looks okay for what it is.
 
 
 ## Final Fansite
