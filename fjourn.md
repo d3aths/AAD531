@@ -27,10 +27,12 @@ After finalizing that, I moved the previous content over to the inside of the si
 
 
 ## Formative Professional Pratices 
-summarise an area of professional pratice in approx 300 words, use imagery if appropirate, you must use credible academic references and cite your statements. you are welcome ot give your thoughts, however you must have your statements backed up by credible research
 
-you are free to select any area of professional pratice you would like to investigate further, it can include what i have shown you in our professional practice lesson or somethin additional you have an interest in
-note: this is a draft for your fromative assessment, you will submit a final copy in your summative assessment
+I will be summarising contracts as an area of professional practice. Having a contract that outlines your agreement with a client is an essential part of business practice. For even the smallest jobs, a contract is the way that you protect yourself and your work. If there is no contract, a client can simply do anything they want, back out after you've delivered your work, not pay you, any of that nasty stuff. Contracts legally bind both parties to deliver what they promised. 
+
+*What's in a contract?*  
+The contract must dictate what services are being provided to the client by the developer. In addition to designing the site's web pages and graphics, devs often register the client's domain name, promote their client's website on the internet, provide extensive tracking data of the website's usage by the public, and often write custom programs that offer enhanced interactivity to users who visit the website. (Gussis, 98). If the developer is not contracted in by the business to deliver ongoing technical support or hosting services, sometimes they will provide technical manuals and documentation so the company themselves can understand how to do this themselves.  
+It will also contain timeline of the project, expected budget, developer pay rate, copyright details, and maybe some terms or conditions, dealing with delays and time extensions, change requests. The contract an be negotiated on by both parties, and of course signed.
 
 ## Inspiration
 Rather than be inspired by live websites, i usually look through codepen or deviantart or something. where codepen has a lot of css on it you can use which has some really amazing effects that you never thought were possible with css only, some of them are very very advanced and have served as inspiration for my development. As well as deviantart having lots of art images of things like interfaces and HUDs.
@@ -126,3 +128,7 @@ content:
 https://www.cyberpunk.net/artbook/en/
 
 https://cyberpunk.fandom.com/wiki/Cyberpunk_Wiki
+
+Geoffrey George Gussis, Website Development Agreements: A Guide to Planning & Drafting, 76 WASH. U. L. Q. 721 (1998). Available at: https://openscholarship.wustl.edu/law_lawreview/vol76/iss2/8 
+
+Jacoc C Myers, Design Contracts for Freelance Web Designers, (N.D) Available at: http://webdesignlaw.com/
